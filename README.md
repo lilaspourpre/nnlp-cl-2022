@@ -14,9 +14,7 @@ https://docs.google.com/spreadsheets/d/1xxeQzSzo50DzOI6LcdPkECUcDTOW0JpzhIf6uWcn
 
 __________________________________________
 
-Lecture slides: https://github.com/lilaspourpre/nlp-cl-2022/tree/main/lecture_slides
-
-__________________________________________
+Timetable
 
 | Date | Type | Topic | Reading club | Slides/Colab link | Video |
 |:---:|:---:|:---:|:---:|:---:|:---:|

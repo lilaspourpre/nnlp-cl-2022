@@ -12,6 +12,10 @@ https://forms.gle/JFVf5NMmxQ6hxVGXA
 
 https://docs.google.com/spreadsheets/d/1xxeQzSzo50DzOI6LcdPkECUcDTOW0JpzhIf6uWcnUBA/edit?usp=sharing
 
+### tg link
+
+https://t.me/+jEhCROivh_Y5OTEy
+
 __________________________________________
 
 ## Timetable

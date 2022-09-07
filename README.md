@@ -4,17 +4,17 @@
 
 zoom link: https://uni-hamburg.zoom.us/j/68413791189?pwd=dFMzQVdrV0xQbC91ZVp0T2d3VVlUQT09
 
-## Background quiz: 
+### Background quiz: 
 
 https://forms.gle/JFVf5NMmxQ6hxVGXA
 
-## Project & RG tables
+### Project & RG tables
 
 https://docs.google.com/spreadsheets/d/1xxeQzSzo50DzOI6LcdPkECUcDTOW0JpzhIf6uWcnUBA/edit?usp=sharing
 
 __________________________________________
 
-Timetable
+## Timetable
 
 | Date | Type | Topic | Reading club | Slides/Colab link | Video |
 |:---:|:---:|:---:|:---:|:---:|:---:|

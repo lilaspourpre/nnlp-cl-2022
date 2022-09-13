@@ -29,3 +29,17 @@ __________________________________________
 | Oct 5 | seminar | Feed-Forward Neural Networks | - | | |
 | Oct 12 | lecture | Convolutional Neural Networks |  | | |
 | Oct 19 | seminar | Convolutional Neural Networks | - | | |
+
+__________________________________________
+
+## Projects
+
+[CL NNLP 2021 project list](https://docs.google.com/spreadsheets/d/1Ns9NMCW8BHQ65jd0_AeuInYQQdv3G7l7UWzospj9f60/edit#gid=1836570811)
+
+[Skoltech NNLP project list](https://docs.google.com/spreadsheets/d/1Lj8e0ad0fynhipcmAWb_xYCfbRQzWaWdq9M2fdlxZaM/edit?usp=sharing)
+
+[Project 1](https://github.com/roguLINA/NNLP_project), [Project 2](https://drive.google.com/file/d/1v6VQ2HII5HI8drTnjTm7ByXGXI1nSjj7/view?usp=sharing), [Project 3](https://drive.google.com/drive/folders/1NWRl0qbgmmCNGDk9rbvnvIlZ_uoQw6-Y?usp=sharing), [Project 4](https://drive.google.com/file/d/1dyH981W9LGhwpKRd22NuOiutpwPKQsmu/view?usp=sharing), [Project 5](https://drive.google.com/file/d/1DmW2DAGenjs1ssL3XdntRNV8D1oVuhfz/view?usp=sharing)
+
+Other examples can be found on Telegram chat.
+
+

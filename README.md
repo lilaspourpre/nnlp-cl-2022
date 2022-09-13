@@ -22,7 +22,7 @@ __________________________________________
 
 | Date | Type | Topic | Reading club | Slides/Colab link | Video |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Sep 7 | lecture | Intro | - | https://github.com/lilaspourpre/nlp-cl-2022/blob/main/lecture_slides/01-intro_2022.pdf | |
+| Sep 7 | lecture | Intro | - | https://github.com/lilaspourpre/nlp-cl-2022/blob/main/lecture_slides/01-intro_2022.pdf | https://youtu.be/kHt6CAyvkxU |
 | Sep 14 | seminar | Preprocessing | - | | |
 | Sep 21 | seminar | ML recap | - | | |
 | Sep 28 | lecture | Feed-Forward Neural Networks |  | | |

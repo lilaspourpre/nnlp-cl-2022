@@ -42,4 +42,8 @@ __________________________________________
 
 Other examples can be found on Telegram chat.
 
+__________________________________________
 
+## NLP tasks
+
+![](lecture_slides/nlp_tasks.png)

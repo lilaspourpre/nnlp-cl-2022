@@ -25,7 +25,8 @@ __________________________________________
 | Sep 7 | lecture | Intro | - | https://github.com/lilaspourpre/nlp-cl-2022/blob/main/lecture_slides/01-intro_2022.pdf | https://youtu.be/kHt6CAyvkxU |
 | Sep 14 | seminar | Preprocessing | - | https://colab.research.google.com/drive/1NUNyYrjIkJD4uprHGGpJxdFHUPry6s_y?usp=sharing https://colab.research.google.com/drive/1NcOhoAkyDBzftNpIFTgoi9BFDan4a_M4?usp=sharing https://colab.research.google.com/drive/1klTnqX5RNnwlC83Ooad4uPK3vqfF7bIc?usp=sharing | https://youtu.be/cGuymVVUje4 |
 | Sep 21 | seminar | ML recap | - | https://colab.research.google.com/drive/1f9y9jj_kH4uN_lD1ec64DjZWknlyU9JF?usp=sharing | https://www.youtube.com/watch?v=SZkrxWhI5qM https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK |
-| Sep 28 | lecture | Feed-Forward Neural Networks |  | | https://www.youtube.com/watch?v=lFh6kKYiaZw |
+| Sep 28 | lecture | Feed-Forward Neural Networks | Speech Recognition Using Deep Neural Networks: A Systematic Review
+ | | https://www.youtube.com/watch?v=lFh6kKYiaZw |
 | Oct 5 | seminar | Feed-Forward Neural Networks | - | | |
 | Oct 12 | lecture | Convolutional Neural Networks |  | | |
 | Oct 19 | seminar | Convolutional Neural Networks | - | | |

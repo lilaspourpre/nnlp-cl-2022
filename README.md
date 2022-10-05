@@ -4,17 +4,19 @@
 
 zoom link: https://uni-hamburg.zoom.us/j/68413791189?pwd=dFMzQVdrV0xQbC91ZVp0T2d3VVlUQT09
 
-### Background quiz: 
+Background quiz: https://forms.gle/JFVf5NMmxQ6hxVGXA
 
-https://forms.gle/JFVf5NMmxQ6hxVGXA
+Project & RG tables: https://docs.google.com/spreadsheets/d/1xxeQzSzo50DzOI6LcdPkECUcDTOW0JpzhIf6uWcnUBA/edit?usp=sharing
 
-### Project & RG tables
+tg link: https://t.me/+jEhCROivh_Y5OTEy
 
-https://docs.google.com/spreadsheets/d/1xxeQzSzo50DzOI6LcdPkECUcDTOW0JpzhIf6uWcnUBA/edit?usp=sharing
+__________________________________________
 
-### tg link
+## HW-1 (Deadline: November 6, 23:59)
 
-https://t.me/+jEhCROivh_Y5OTEy
+Task description: https://drive.google.com/file/d/1UiGlQxNk3EMMaIyfFhJOyhMF_6IG6o61/view?usp=sharing
+
+Google form link to submit: https://forms.gle/4VTUgA1ro87opfew6 
 
 __________________________________________
 
@@ -25,9 +27,9 @@ __________________________________________
 | Sep 7 | lecture | Intro | - | https://github.com/lilaspourpre/nlp-cl-2022/blob/main/lecture_slides/01-intro_2022.pdf | https://youtu.be/kHt6CAyvkxU |
 | Sep 14 | seminar | Preprocessing | - | https://colab.research.google.com/drive/1NUNyYrjIkJD4uprHGGpJxdFHUPry6s_y?usp=sharing https://colab.research.google.com/drive/1NcOhoAkyDBzftNpIFTgoi9BFDan4a_M4?usp=sharing https://colab.research.google.com/drive/1klTnqX5RNnwlC83Ooad4uPK3vqfF7bIc?usp=sharing | https://youtu.be/cGuymVVUje4 |
 | Sep 21 | seminar | ML recap | - | https://colab.research.google.com/drive/1f9y9jj_kH4uN_lD1ec64DjZWknlyU9JF?usp=sharing | https://www.youtube.com/watch?v=SZkrxWhI5qM https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK https://youtu.be/JyY2nvzS3ws |
-| Sep 28 | lecture | Feed-Forward Neural Networks | Speech Recognition Using Deep Neural Networks: A Systematic Review | | https://www.youtube.com/watch?v=lFh6kKYiaZw |
-| Oct 5 | seminar | Feed-Forward Neural Networks | - | | |
-| Oct 12 | lecture | Convolutional Neural Networks |  | | |
+| Sep 28 | lecture | Feed-Forward Neural Networks | - | | https://www.youtube.com/watch?v=lFh6kKYiaZw |
+|  | seminar | Feed-Forward Neural Networks | - | | |
+|  | lecture | Convolutional Neural Networks | Success with Style: Using Writing Style to Predict the Success of Novels | | |
 | Oct 19 | seminar | Convolutional Neural Networks | - | | |
 
 __________________________________________

@@ -33,8 +33,8 @@ __________________________________________
 | Sep 7 | lecture | Intro | - | https://github.com/lilaspourpre/nlp-cl-2022/blob/main/lecture_slides/01-intro_2022.pdf | https://youtu.be/kHt6CAyvkxU |
 | Sep 14 | seminar | Preprocessing | - | https://colab.research.google.com/drive/1NUNyYrjIkJD4uprHGGpJxdFHUPry6s_y?usp=sharing https://colab.research.google.com/drive/1NcOhoAkyDBzftNpIFTgoi9BFDan4a_M4?usp=sharing https://colab.research.google.com/drive/1klTnqX5RNnwlC83Ooad4uPK3vqfF7bIc?usp=sharing | https://youtu.be/cGuymVVUje4 |
 | Sep 21 | seminar | ML recap | - | https://colab.research.google.com/drive/1f9y9jj_kH4uN_lD1ec64DjZWknlyU9JF?usp=sharing | https://www.youtube.com/watch?v=SZkrxWhI5qM https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK https://youtu.be/JyY2nvzS3ws |
-| Sep 28 | lecture | Feed-Forward Neural Networks | - | | https://www.youtube.com/watch?v=lFh6kKYiaZw |
-|  | seminar | Feed-Forward Neural Networks | - | | |
+| Sep 28 | lecture | Feed-Forward Neural Networks | - | | [MLP intro](https://www.youtube.com/watch?v=lFh6kKYiaZw), [word embeddings](https://youtu.be/InwNEwh6DYk),  |
+|  | seminar | Feed-Forward Neural Networks | - | https://github.com/daria-sa/NNmethods_ba_hse21-22/blob/main/02_NN_intro.ipynb | [torch tensors](https://youtu.be/HQyx8vK1S4A), [torch dataset](https://youtu.be/s9WPMP8CXnI), [torch linear model](https://youtu.be/52Ky4PP1kmg) |
 |  | lecture | Convolutional Neural Networks | Success with Style: Using Writing Style to Predict the Success of Novels | | |
 | Oct 19 | seminar | Convolutional Neural Networks | - | | |
 

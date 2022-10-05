@@ -12,6 +12,12 @@ tg link: https://t.me/+jEhCROivh_Y5OTEy
 
 __________________________________________
 
+## Grading
+
+https://docs.google.com/spreadsheets/d/1uGmHJxa7sXD5zpzj_tAyiFn_x3JU_rYPEjPP_Eb9-uU/edit?usp=sharing
+
+__________________________________________
+
 ## HW-1 (Deadline: November 6, 23:59)
 
 Task description: https://drive.google.com/file/d/1UiGlQxNk3EMMaIyfFhJOyhMF_6IG6o61/view?usp=sharing

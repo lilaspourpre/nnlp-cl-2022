@@ -39,13 +39,13 @@ __________________________________________
 | Nov 9 | lecture | Convolutional Neural Networks | Text Style Transfer: A Review and Experimental Evaluation (Hu et al., 2022) | [slides](https://docs.google.com/presentation/d/1L0owr3BmqTHx77Pbo5T0BdowYpVEz_FC/edit?usp=sharing&ouid=113272283531070392641&rtpof=true&sd=true) || | https://youtu.be/V7YNOAg6Jds |
 | Nov 10 | seminar | Convolutional Neural Networks | - | [colab](https://colab.research.google.com/drive/1BGUA1UAVLWTp_A6KJiI8ricUuxj1UUqW?usp=sharing) | | | https://youtu.be/hUBixuQ0-xc |
 | Nov 16 | lecture | Recurrent Neural Networks | https://wandb.ai/site | [slides](https://docs.google.com/presentation/d/1MEUJ88P9SBjn7Ig8uE63TBJfOmgsRgKZ/edit?usp=sharing&ouid=113272283531070392641&rtpof=true&sd=true) | | | https://youtu.be/5ptSNvOhA5Q |
-| Nov 23 | seminar | Recurrent Neural Networks |  | | |
+| Nov 23 | seminar | Recurrent Neural Networks | - | [colab](https://colab.research.google.com/drive/1hl6zZbhwHpehLlaNf-OLSrufOWI4_L7B?usp=sharing)| |
 | Nov 30 | lecture | Sequence2sequnece & Attention |  | | |
-| Dec 2| seminar | Sequence2sequnece & Attention |  | | |
-| Dec 7| seminar | Transformers |  | | |
-| Dec 9| seminar | Transformers |  | | |
-| Dec 14| seminar | BERT |  | | |
-| Dec 16| seminar | BERT |  | | |
+| Dec 2| seminar | Sequence2sequnece & Attention | - | | |
+| Dec 7| lecture | Transformers |  | | |
+| Dec 9| seminar | Transformers | - | | |
+| Dec 14| lecture | BERT |  | | |
+| Dec 16| seminar | BERT | - | | |
 
 __________________________________________
 

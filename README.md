@@ -44,7 +44,7 @@ __________________________________________
 | Dec 2| seminar | Sequence2sequnece & Attention | - | | |
 | Dec 7| lecture | Transformers |  | | |
 | Dec 9| seminar | Transformers | - | | |
-| Dec 14| lecture | BERT |  | | |
+| Dec 14| lecture | BERT | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | | |
 | Dec 16| seminar | BERT | - | | |
 
 __________________________________________

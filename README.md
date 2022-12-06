@@ -26,6 +26,14 @@ Google form link to submit: https://forms.gle/4VTUgA1ro87opfew6
 
 __________________________________________
 
+## HW-2 (Deadline: December 21, 23:59)
+
+Task description: https://github.com/lilaspourpre/nnlp-cl-2022/blob/main/HW-2.md
+
+Google form link to submit: https://forms.gle/q3TahYmPbNfB6gGr9 
+
+__________________________________________
+
 ## Timetable
 
 | Date | Type | Topic | Reading club | Slides/Colab link | Video | Additional links | Session recording |

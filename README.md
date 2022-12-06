@@ -48,7 +48,7 @@ __________________________________________
 | Nov 10 | seminar | Convolutional Neural Networks | - | [colab](https://colab.research.google.com/drive/1BGUA1UAVLWTp_A6KJiI8ricUuxj1UUqW?usp=sharing) | | | https://youtu.be/hUBixuQ0-xc |
 | Nov 16 | lecture | Recurrent Neural Networks | https://wandb.ai/site | [slides](https://docs.google.com/presentation/d/1MEUJ88P9SBjn7Ig8uE63TBJfOmgsRgKZ/edit?usp=sharing&ouid=113272283531070392641&rtpof=true&sd=true) | | | https://youtu.be/5ptSNvOhA5Q |
 | Nov 23 | seminar | Recurrent Neural Networks | - | [colab](https://colab.research.google.com/drive/1hl6zZbhwHpehLlaNf-OLSrufOWI4_L7B?usp=sharing)| |
-| Nov 30 | lecture | Sequence2sequnece & Attention | [slides](https://docs.google.com/presentation/d/1-3IJfs7qnnu2CuhipXFqv3F7oPZIQjPJZdUXI9pq0-o/edit?usp=sharing) | | |
+| Nov 30 | lecture | Sequence2sequnece & Attention | -| [slides](https://docs.google.com/presentation/d/1-3IJfs7qnnu2CuhipXFqv3F7oPZIQjPJZdUXI9pq0-o/edit?usp=sharing) | |
 | Dec 2| seminar | Sequence2sequnece & Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | |
 | Dec 7| lecture | Transformers |  | | |
 | Dec 9| seminar | Transformers | - | | |

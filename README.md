@@ -50,10 +50,10 @@ __________________________________________
 | Nov 23 | seminar | Recurrent Neural Networks | - | [colab](https://colab.research.google.com/drive/1hl6zZbhwHpehLlaNf-OLSrufOWI4_L7B?usp=sharing)| |
 | Nov 30 | lecture | Sequence2sequnece & Attention | -| [slides](https://docs.google.com/presentation/d/1-3IJfs7qnnu2CuhipXFqv3F7oPZIQjPJZdUXI9pq0-o/edit?usp=sharing) | |
 | Dec 2| seminar | Sequence2sequnece & Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | |
-| Dec 7| lecture | Transformers |  | | |
-| Dec 9| seminar | Transformers | - | | |
-| Dec 14| lecture | BERT | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | | |
-| Dec 16| seminar | BERT | - | | |
+| Dec 7| lecture & seminar | Attention |  | | |
+| Dec 9|  | Transformers | - | | |
+| Dec 14| lecture | Transformers | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | | |
+| Dec 16|  | Transformers | - | | |
 
 __________________________________________
 

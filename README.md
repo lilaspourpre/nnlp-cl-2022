@@ -52,7 +52,7 @@ __________________________________________
 | Dec 2| seminar | Sequence2sequnece & Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | | | https://youtu.be/JFID5zq3GHk |
 | Dec 7| lecture & seminar | Attention |   | | | | https://youtu.be/TR_9R-mMPTg |
 | Dec 9|  | Attention | - | | | | https://youtu.be/B5xSyHsi8Kc |
-| Dec 14| lecture | Transformers | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | | |
+| Dec 14| lecture | Transformers | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова |  | | | https://youtu.be/nIRicydRXV8 |
 | Dec 16|  | Transformers | - | | |
 
 __________________________________________

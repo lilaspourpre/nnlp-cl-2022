@@ -51,7 +51,7 @@ __________________________________________
 | Nov 30 | lecture | Sequence2sequnece & Attention | -| [slides](https://docs.google.com/presentation/d/1-3IJfs7qnnu2CuhipXFqv3F7oPZIQjPJZdUXI9pq0-o/edit?usp=sharing) | |
 | Dec 2| seminar | Sequence2sequnece & Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | | | https://youtu.be/JFID5zq3GHk |
 | Dec 7| lecture & seminar | Attention |   | | | | https://youtu.be/TR_9R-mMPTg |
-| Dec 9|  | Attention | - | | |
+| Dec 9|  | Attention | - | | | | https://youtu.be/B5xSyHsi8Kc |
 | Dec 14| lecture | Transformers | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | | |
 | Dec 16|  | Transformers | - | | |
 

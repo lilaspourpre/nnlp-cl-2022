@@ -50,7 +50,7 @@ __________________________________________
 | Nov 23 | seminar | Recurrent Neural Networks | - | [colab](https://colab.research.google.com/drive/1hl6zZbhwHpehLlaNf-OLSrufOWI4_L7B?usp=sharing)| |  | https://youtu.be/7IgTk-liFVA |
 | Nov 30 | lecture | Sequence2sequnece & Attention | -| [slides](https://docs.google.com/presentation/d/1-3IJfs7qnnu2CuhipXFqv3F7oPZIQjPJZdUXI9pq0-o/edit?usp=sharing) | | | https://youtu.be/V4Z23nZwqD4 |
 | Dec 2| seminar | Sequence2sequnece & Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | | | https://youtu.be/JFID5zq3GHk |
-| Dec 7| lecture & seminar | Attention | [slides](https://drive.google.com/file/d/1YNL9EbI_yz2-_51QiOrYxfx6yoOOqsWg/view?usp=sharing)  | | | | https://youtu.be/TR_9R-mMPTg |
+| Dec 7| lecture & seminar | Attention | - | [slides](https://drive.google.com/file/d/1YNL9EbI_yz2-_51QiOrYxfx6yoOOqsWg/view?usp=sharing)  | | | | https://youtu.be/TR_9R-mMPTg |
 | Dec 9|  | Attention | - | [colab](https://colab.research.google.com/drive/1S8Drqj0vhrV2pjEk74uvoXgUkQ18FMth?usp=sharing) | | | https://youtu.be/B5xSyHsi8Kc |
 | Dec 14| lecture | Transformers | Полина Машковцева, Полина Черноморченко, Таня Перевощиковаи Саша Шахнова | [slides](https://drive.google.com/file/d/1g1hEHq7O2ZRKnrBGHrnWw4rc3fykSPe5/view?usp=sharing), [attention slides](https://docs.google.com/presentation/d/1KzM-Hzm8C3spzk2-uutlBBkOP_GE1nPVLpQzpbEO9qo/edit?usp=sharing) | [a very nice video with explanation](https://www.youtube.com/watch?v=z1xs9jdZnuY&t=504s) | | https://youtu.be/nIRicydRXV8 |
 | Dec 16|  | Transformers | - | [colab](https://colab.research.google.com/drive/1FHpilMcoFwGMEzo9mOQidL4O4Zb5E-zP?usp=sharing) | | | https://youtu.be/0JSN4BYQ_is |
